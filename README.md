@@ -25,3 +25,4 @@ The spatial aggregation uses GCN, the temporal aggregation a GRU
 We can pass in periods to get an embedding for several timesteps
 This embedding can be used to predict several steps into the future = output dimension
 Source Code: https://pytorch-geometric-temporal.readthedocs.io/en/latest/_modules/torch_geometric_temporal/nn/recurrent/attentiontemporalgcn.html#A3TGCN
+![Screenshot 2022-08-20 101135](https://user-images.githubusercontent.com/95682409/185729253-ea9a31b4-9790-4bc8-8e8a-cd7093d3efe3.png)
